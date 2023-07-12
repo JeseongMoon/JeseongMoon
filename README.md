@@ -1,8 +1,11 @@
 ### Hi Welcome, I'm JESEONG MOON 👋
 
 #### Data Analyst / Product Manager
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+
+Documenting the process of changing the world
+
+<h2 align="left"> Blog </h2>
+https://novicecoder-dailylog.tistory.com/
 
 <h2 align="left">📚 Tech Stack 💻</h2>
 <div align="center">
